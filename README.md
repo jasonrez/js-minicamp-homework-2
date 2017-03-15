@@ -3,19 +3,26 @@
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
+
 	* for loop
+	a for loop take 3 arguments: an initial value, a evaluation test, and finally a increment. The for loop will run until the evaluation test is false.
 	* && || !
+	&& the and operator, if both sides of the && are true then the expression will be true else false
+	|| the or operator, if either side of the || are true the expression will be true else false
+	! the not operator, if the expressions is true then it will return false and vice versa
 	* Array
+	an indexed list of items
 	* git
+	version control
 	* GitHub
+	a place to store your code. and colaborate with other users.
 
 
 2. Install git.  https://git-scm.com/downloads
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
-		
+
 	* git status
 	* git add --all
 	* git status
